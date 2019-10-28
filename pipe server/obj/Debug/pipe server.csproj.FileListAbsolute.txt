@@ -28,3 +28,7 @@ C:\Users\Ercan\Desktop\Simple-Shape-Recognition-with-Lidar-06.2019-master\pipe s
 C:\Users\Ercan\Desktop\github\Completed\Simple-Shape-Recognition-with-Lidar-06.2019-master\pipe server\bin\Debug\pipe server.exe.config
 C:\Users\Ercan\Desktop\github\Completed\Simple-Shape-Recognition-with-Lidar-06.2019-master\pipe server\obj\Debug\pipe server.exe
 C:\Users\Ercan\Desktop\github\Completed\Simple-Shape-Recognition-with-Lidar-06.2019-master\pipe server\obj\Debug\pipe server.pdb
+C:\Users\Ercan\Desktop\github\Completed\Simple-Shape-Recognition-with-Lidar-06.2019-master\pipe server\bin\Debug\pipe server.exe
+C:\Users\Ercan\Desktop\github\Completed\Simple-Shape-Recognition-with-Lidar-06.2019-master\pipe server\bin\Debug\pipe server.pdb
+C:\Users\Ercan\Desktop\github\Completed\Simple-Shape-Recognition-with-Lidar-06.2019-master\pipe server\obj\Debug\pipe server.csprojAssemblyReference.cache
+C:\Users\Ercan\Desktop\github\Completed\Simple-Shape-Recognition-with-Lidar-06.2019-master\pipe server\obj\Debug\pipe server.csproj.CoreCompileInputs.cache
