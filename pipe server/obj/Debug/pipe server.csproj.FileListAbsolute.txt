@@ -1,0 +1,30 @@
+D:\Masaüstü\Pipe\4\pipe server\pipe server\obj\Debug\pipe server.csprojResolveAssemblyReference.cache
+D:\Masaüstü\Pipe\4\pipe server\pipe server\bin\Debug\pipe server.exe.config
+D:\Masaüstü\Pipe\4\pipe server\pipe server\bin\Debug\pipe server.exe
+D:\Masaüstü\Pipe\4\pipe server\pipe server\bin\Debug\pipe server.pdb
+D:\Masaüstü\Pipe\4\pipe server\pipe server\obj\Debug\pipe server.exe
+D:\Masaüstü\Pipe\4\pipe server\pipe server\obj\Debug\pipe server.pdb
+D:\Masaüstü\Pipe\4 c++ c#\pipe server c#\pipe server\bin\Debug\pipe server.exe.config
+D:\Masaüstü\Pipe\4 c++ c#\pipe server c#\pipe server\obj\Debug\pipe server.exe
+D:\Masaüstü\Pipe\4 c++ c#\pipe server c#\pipe server\obj\Debug\pipe server.pdb
+D:\Masaüstü\Pipe\4 c++ dan c# a\pipe server c#\pipe server\bin\Debug\pipe server.exe.config
+D:\Masaüstü\Pipe\4 c++ dan c# a\pipe server c#\pipe server\obj\Debug\pipe server.exe
+D:\Masaüstü\Pipe\4 c++ dan c# a\pipe server c#\pipe server\obj\Debug\pipe server.pdb
+D:\Masaüstü\Pipe\3 c++ (CreateFile ) dan c# (NamedPipeServerStream) a\pipe server c#\pipe server\bin\Debug\pipe server.exe.config
+D:\Masaüstü\Pipe\3 c++ (CreateFile ) dan c# (NamedPipeServerStream) a\pipe server c#\pipe server\obj\Debug\pipe server.exe
+D:\Masaüstü\Pipe\3 c++ (CreateFile ) dan c# (NamedPipeServerStream) a\pipe server c#\pipe server\obj\Debug\pipe server.pdb
+C:\Users\Ercan\Desktop\c++ (CreateFile ) dan c# (NamedPipeServerStream) a\pipe server c#\pipe server\bin\Debug\pipe server.exe.config
+C:\Users\Ercan\Desktop\c++ (CreateFile ) dan c# (NamedPipeServerStream) a\pipe server c#\pipe server\bin\Debug\pipe server.exe
+C:\Users\Ercan\Desktop\c++ (CreateFile ) dan c# (NamedPipeServerStream) a\pipe server c#\pipe server\bin\Debug\pipe server.pdb
+C:\Users\Ercan\Desktop\c++ (CreateFile ) dan c# (NamedPipeServerStream) a\pipe server c#\pipe server\obj\Debug\pipe server.exe
+C:\Users\Ercan\Desktop\c++ (CreateFile ) dan c# (NamedPipeServerStream) a\pipe server c#\pipe server\obj\Debug\pipe server.pdb
+C:\Users\Ercan\Desktop\c++ (CreateFile ) dan c# (NamedPipeServerStream) a\pipe server c#\pipe server\obj\Debug\pipe server.csprojResolveAssemblyReference.cache
+C:\Users\Ercan\Desktop\derlser\Yeni klasör (3)\Yeni klasör\Ercan Şencanoğlu Proje\Kodlar\pipe server c#0-360 derece\pipe server\bin\Debug\pipe server.exe.config
+C:\Users\Ercan\Desktop\derlser\Yeni klasör (3)\Yeni klasör\Ercan Şencanoğlu Proje\Kodlar\pipe server c#0-360 derece\pipe server\obj\Debug\pipe server.exe
+C:\Users\Ercan\Desktop\derlser\Yeni klasör (3)\Yeni klasör\Ercan Şencanoğlu Proje\Kodlar\pipe server c#0-360 derece\pipe server\obj\Debug\pipe server.pdb
+C:\Users\Ercan\Desktop\Simple-Shape-Recognition-with-Lidar-06.2019-master\pipe server\bin\Debug\pipe server.exe.config
+C:\Users\Ercan\Desktop\Simple-Shape-Recognition-with-Lidar-06.2019-master\pipe server\obj\Debug\pipe server.exe
+C:\Users\Ercan\Desktop\Simple-Shape-Recognition-with-Lidar-06.2019-master\pipe server\obj\Debug\pipe server.pdb
+C:\Users\Ercan\Desktop\github\Completed\Simple-Shape-Recognition-with-Lidar-06.2019-master\pipe server\bin\Debug\pipe server.exe.config
+C:\Users\Ercan\Desktop\github\Completed\Simple-Shape-Recognition-with-Lidar-06.2019-master\pipe server\obj\Debug\pipe server.exe
+C:\Users\Ercan\Desktop\github\Completed\Simple-Shape-Recognition-with-Lidar-06.2019-master\pipe server\obj\Debug\pipe server.pdb
